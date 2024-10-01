@@ -20,7 +20,7 @@ Este projeto é um clone do repositório [redis-dba](https://github.com/guivahl/
 
 1. Clone o repositório e acesse a pasta do projeto
    ```shell
-   git clone https://github.com/Fernanda-Kipper/email-service-backend.git
+   git clone https://github.com/jeferson-primer/email-service-backend.git
    cd nome-do-repositorio
     ```
 2. Instale os pacotes utilizando o comando `npm install`
@@ -31,16 +31,9 @@ Este projeto é um clone do repositório [redis-dba](https://github.com/guivahl/
 
 Você pode executar o frontend para se comunicar com esta aplicação através de requisições HTTP. Para isso, siga as instruções abaixo:
 
-1. Clone esse [repositório](https://github.com/Fernanda-Kipper/membership-frontend)
+1. Clone esse [repositório](https://github.com/jeferson-primer/membership-frontend)
 ```
-git clone https://github.com/Fernanda-Kipper/membership-frontend
+git clone https://github.com/jeferson-primer/membership-frontend
 ```
 
 2. Siga as instruções fornecidas no repositório do frontend para configurar e executar o projeto.
-
-## Vídeos
-
-Este projeto serviu como base para uma série de vídeos no meu canal do YouTube, onde compartilho conhecimentos e demonstro a construção de alguns componentes do projeto. 
-
-- [Vídeo: Construção da API Rest](https://www.youtube.com/live/GVF--Rl3bP4?feature=share)
-- [Vídeo: Desenvolvimento de Testes Unitários](https://www.youtube.com/live/GVF--Rl3bP4?feature=share)
