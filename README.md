@@ -5,7 +5,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-Este projeto foi desenvolvido como parte da disciplina de Banco de Dados Avançado do curso de Ciência da Computação da [Universidade Federal de Pelotas](https://portal.ufpel.edu.br/). O objetivo principal é demonstrar o uso do banco de dados NoSQL Redis como message broker em um sistema de disparo de e-mails em lote.
+Este projeto foi desenvolvido como parte da disciplina de Banco de Dados Avançado do curso de Engenharia de Software da [Estácio]. O objetivo principal é demonstrar o uso do banco de dados NoSQL Redis como message broker em um sistema de disparo de e-mails em lote.
 
 Este projeto é um clone do repositório [redis-dba](https://github.com/guivahl/redis-dba), com algumas adições de funcionalidades.
 
